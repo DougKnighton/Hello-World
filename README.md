@@ -1,4 +1,5 @@
 # Hello-World
 What else would it be?
 Continuing on down the branch...
-...to the commit confluence
+...to the commit confluence...
+...where they will flow together.
